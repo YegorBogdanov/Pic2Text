@@ -13,5 +13,5 @@
 Демонстрация со звуком: https://www.youtube.com/watch?v=HBwZX0W-y10
 
 Запуск:
-сервер - npm start
+сервер - npm start, 
 клиент - npm serve
