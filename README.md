@@ -1,4 +1,4 @@
-![screenshot](readme-assets/Logo2.png)
+![screenshot](readme-assets/Logo.png)
 
 
 Сервис для получения электронного текста с изображения, а также озвучания данного текста.
