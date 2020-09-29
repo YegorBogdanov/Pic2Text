@@ -1,4 +1,4 @@
-![screenshot](readme-assets/Logo4.gif)
+![screenshot](readme-assets/Logo4.png)
 
 
 Сервис для получения электронного текста с изображения, а также озвучания данного текста.
