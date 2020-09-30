@@ -32,7 +32,6 @@ app.post('/upload', upload.single('file'), async (req, res) => {
     await worker.loadLanguage('eng');
     await worker.initialize('eng');
     const { data: { text } } = await worker.recognize(data);
-    console.log(text);
     await worker.terminate();
     res.send(text)
 })
