@@ -3,7 +3,7 @@
 
 Сервис для получения электронного текста с изображения, а также озвучания данного текста.
 Приложение может быть полезно для детей, учащихся читать, а также для людей со слабым зрением.<br/>
-This app helps to get e-text from image and sound it. It may be usefull for children learning to read or people with weak sight
+This app helps to get e-text from image and read it aloud. It may be usefull for children learning to read or people with weak sight
 
 
 ### Интерфейс (interface):
